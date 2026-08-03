@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMenagement", "StockMenagement\StockMenagement.csproj", "{F9DF49E3-C7F3-401D-BBEB-DCD44AF7DB51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DF49E3-C7F3-401D-BBEB-DCD44AF7DB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DF49E3-C7F3-401D-BBEB-DCD44AF7DB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DF49E3-C7F3-401D-BBEB-DCD44AF7DB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DF49E3-C7F3-401D-BBEB-DCD44AF7DB51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {4C02A70A-58E8-496C-B1D6-F85514609B2C}
+	EndGlobalSection
+EndGlobal
